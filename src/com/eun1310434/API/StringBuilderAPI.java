@@ -7,7 +7,6 @@
 
 package com.eun1310434.API;
 public class StringBuilderAPI {
-	
 	//StringBuilder : 문자열 조작, 멀티스레드에 안전하지 않음, 빠름
 	
 	public static String appendData(String source, String[] data) {
