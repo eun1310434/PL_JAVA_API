@@ -4,7 +4,6 @@
  * https://blog.naver.com/eun1310434
  * 참고) 쉽게 배우는 소프트웨어 공학, Java Documentation, 헬로 자바 프로그래밍
 */
-
 package com.eun1310434.API;
 import java.util.Properties;
 public class PropertiesAPI {
